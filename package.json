@@ -1,0 +1,16 @@
+{
+  "name": "twitch-bot-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot2.js",
+  "scripts": {
+    "start": "node bot2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
